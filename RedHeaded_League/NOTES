@@ -1,4 +1,6 @@
 sudo pip3 install python3-xlib
 sudo apt-get install scrot python3-tk python3-dev python3-opencv
 
+tar czf holmes_red_headed_league_data.tar.gz data
+
 python-imagesearch
